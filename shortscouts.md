@@ -3,15 +3,6 @@
 ## Creacion-nuevo archivo
 
     - Ctrl + N
-
-### Creacion-nuevo ventana del VSCode
-
-    - Ctrl + Shift + N
-
-#### Mover lineas arriba abajo
-## Creacion-nuevo archivo
-
-    - Ctrl + N
     - abrir markdown: Ctrl + K   V
 
 ### Creacion-nuevo ventana del VSCode
