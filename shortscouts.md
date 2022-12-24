@@ -3,10 +3,19 @@
 ## Creacion-nuevo archivo
 
     - Ctrl + N
+    - abrir markdown: Ctrl + K   V
 
 ### Creacion-nuevo ventana del VSCode
 
     - Ctrl + Shift + N
+
+#### Abrir archivo
+
+        - Ctrl + O
+
+#### Abrir carpeta
+
+        - Ctrl + K Ctrl + O
 
 #### Mover lineas arriba abajo
 
@@ -84,8 +93,6 @@ Abrir, reabrir, cerrar tabs, cambair de tab
 #### clonar linea
 
     - Mayus + Alt + ↑ / ↓
-
-
 
 #### Crear múltiples cursores para editar
 
