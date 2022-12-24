@@ -1,8 +1,16 @@
 # Shortcuts
 
-#### mover lineas arriba abajo
+## Creacion-nuevo archivo
 
-    - **Alt + ↑ / ↓**
+    - Ctrl + N
+
+### Creacion-nuevo ventana del VSCode
+
+    - Ctrl + Shift + N
+
+#### Mover lineas arriba abajo
+
+    Alt + ↑ / ↓
 
 #### Utilizar emmet wrap
 
@@ -18,8 +26,8 @@
 
 #### Comentar/Descomentar un bloque de código
 
-    - **CTRL + Q**
-    - **ALT + SHIFT + A**: bloque de codigo
+    - CTRL + Q
+    - ALT + SHIFT + A: bloque de codigo
 
 #### Crear un nuevo archivo
 
@@ -30,25 +38,25 @@
     Tips:
 
     - Ctrl + click derecho
-    - Ir a la definición **F12**
+    - Ir a la definición F12
     - Ojear definicion en un 'cuadrito'. salir con ESCAPE
-    - Ojear definición **Alt + F12**
+    - Ojear definición Alt + F12
 
 #### Borrar lineas
 
 Seleccionar todas las ocurrencias de la selección
 
-    - **Ctrl + L** ->>> SELECCIONES LINEAS
-    - **Ctrol + X** : Borra linea
-    - **Ctrol + shift + K** : Borra linea
+    - Ctrl + L ->>> SELECCIONES LINEAS
+    - Ctrol + X : Borra linea
+    - Ctrol + shift + K : Borra linea
 
 #### Zen mode
 
-    - **Ctrl + K (soltamos) + Z**
+    - Ctrl + K (soltamos) + Z
 
 #### mostrar/Ocultar barra lateral
 
-    - **Ctrl + B**
+    - Ctrl + B
 
 #### Buscar en el proyecto
 
@@ -85,8 +93,8 @@ Abrir, reabrir, cerrar tabs, cambair de tab
   
 #### Crear múltiples cursores usando el "Next find match"
 
-    - **Ctrl + D**
-    - **Ctrl + i**: pa meterlo dentro del un div -  - ul etc   / ALT + A
+    - Ctrl + D
+    - Ctrl + i: pa meterlo dentro del un div -  - ul etc   / ALT + A
 
 #### Ver rápidamente las definiciones de la clase
 
@@ -138,15 +146,15 @@ Tips:
 
 #### Crear multiples cursores
 
-    - **Ctrl + Alt + ↑ / ↓**
+    - Ctrl + Alt + ↑ / ↓
     - selecionar
     - Ctrl + Shift + ->
     - copy paste
 
 #### Mostrar la paleta de comandos
 
-    - **Ctrl + Shift + P**
-    - **F1**
+    - Ctrl + Shift + P
+    - F1
 
 #### Crear múltiples cursores
 
@@ -154,4 +162,4 @@ Tips:
 
 #### Seleccionar todas las ocurrencias de la selección
 
-    - **Ctrl +  L**    pa despues borrar C+X
+    - Ctrl +  L    pa despues borrar C+X
