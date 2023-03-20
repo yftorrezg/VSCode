@@ -1,25 +1,5 @@
 # Shortcuts
 
-## Creacion-nuevo archivo
-
-        Ctrl + N
-        abrir markdown: Ctrl + K   V
-
-### Creacion-nuevo ventana del VSCode
-
-        Ctrl + Shift + N
-
-#### Abrir archivo
-
-        Ctrl + O
-
-#### Abrir carpeta
-
-        Ctrl + K Ctrl + O
-
-#### Mover lineas arriba abajo
-
-        Alt + ↑ / ↓
 
 #### Utilizar emmet wrap
 
@@ -33,11 +13,6 @@
                 <code>ng serve</code>
         Alt + A
 
-#### Comentar/Descomentar un bloque de código
-
-        CTRL + Q
-        ALT + SHIFT + A: bloque de codigo
-
 #### Crear un nuevo archivo
 
     Crear carpeta `assets`
@@ -47,95 +22,26 @@
     Tips:
 
             Ctrl + click derecho
-            Ir a la definición F12
+            Ir a la definición ``F12``
             Ojear definicion en un 'cuadrito'. salir con ESCAPE
             Ojear definición Alt + F12
 
-#### Borrar lineas
-
-Seleccionar todas las ocurrencias de la selección
-
-        Ctrl + L ->>> SELECCIONES LINEAS
-        Ctrol + X : Borra linea
-        Ctrol + shift + K : Borra linea
-
-#### Zen mode
-
-        Ctrl + K (soltamos) + Z
-
-#### mostrar/Ocultar barra lateral
-
-        Ctrl + B
-
-#### Buscar en el proyecto
-
-        Ctrl + Shift + F
-
-#### Buscar extensiones
-
-        Ctrl + Shift + X
-
-#### Ocultar Mostrar terminal
-
-        Ctrl + ñ
-        Ctrl + j
-
-#### 12-chrome-tabs
-
-Abrir, reabrir, cerrar tabs, cambair de tab
-
-        Ctrl + W Cerrar tab
-        Ctrl + K Ctrl + W Cerrar todas
-        Ctrl + Shift + T Reabrir anterior
-        Ctrl + TAB Cambiar de tab
-        alt + numero cambiar de taB
-
-#### clonar linea
-
-        Mayus + Alt + ↑ / ↓
-
-#### Crear múltiples cursores para editar
-
-        Ctrl + Alt + ↑ / ↓
-  
 #### Crear múltiples cursores usando el "Next find match"
 
         Ctrl + D
-        Ctrl + i: pa meterlo dentro del un div       ul etc   / ALT + A
+        Ctrl + i: div, ul, etc   / ALT + A
 
-#### Ver rápidamente las definiciones de la clase
+## Extensiones
 
-        Ctrl + P => luego escribir la @ + : si queres agruparlo
-        Ctrl + Shift + O
-        Ctrl + Shift + O escribir :
-        Se pueden agrupar si después de la @, se escriben :
-
-#### Ir a linea
-
-        Ctrl + G
-        Ctrl + P => luego escribir la :
-
-#### Salto de linea
-
-        Alt + <
-        Alt + >
-
-#### Markdown
-
-        Ctrl Shift + P : Markdown Open Preview
-        F1: Markdown Open Preview
-        Ctrl Shift + V  : Markdown Open Preview to the side
-        F1  : Markdown Open Preview to the side
-
-#### Bookmarks
+### Bookmarks
 
         ALT + V
 
-#### Live serve
+### Live serve
 
         ALT + L   ALT + O
 
-#### 04-replace-definition
+### 04-replace-definition
 
 Objetivo:
 
@@ -147,26 +53,85 @@ Tips:
         Replace Symbol
         F2(funciona con f2)
 
-#### 05-temas
-
-        Ctrl + K Ctrl + T
-
-#### Crear multiples cursores
+### Crear multiples cursores
 
         Ctrl + Alt + ↑ / ↓
         selecionar
         Ctrl + Shift + ->
         copy paste
 
-#### Mostrar la paleta de comandos
+### Crear múltiples cursores
 
-        Ctrl + Shift + P
-        F1
+        Mantener alt + click. Devuelta click pa quitar cursor
 
-#### Crear múltiples cursores
-
-        Mantener alt + click. Devuelta click si quiere quitar cursor
-
-#### Seleccionar todas las ocurrencias de la selección
+### Seleccionar todas las ocurrencias de la selección
 
         Ctrl +  L    pa despues borrar C+X
+
+## Tabla con todos los atajos
+
+| Shortcut | Description |
+| --- | --- |
+| ``Ctrl + N`` | Crear nuevo archivo |
+| ``Ctrl + Shift + N`` | Crear nuevo ventana del VSCode |
+| ``Ctrl + O`` | Abrir archivo |
+| ``Ctrl + K Ctrl + O`` | Abrir carpeta |
+| ``Alt + ↑ / ↓`` | Mover lineas arriba abajo |
+| ``Ctrl + Q`` | Comentar/Descomentar un bloque de código |
+| ``Alt + Shift + A`` | Comentar/Descomentar un bloque de código |
+| ``Ctrl + K Ctrl + W`` | Cerrar todas las pestañas |
+| ``Ctrl + W`` | Cerrar pestaña |
+| ``Ctrl + Shift + T`` | Reabrir pestaña anterior |
+| ``Ctrl + TAB`` | Cambiar de pestaña |
+| ``Alt + numero`` | Cambiar de pestaña |
+| ``Mayus + Alt + ↑ / ↓`` | Clonar linea👿 |
+| ``Ctrl + Alt + ↑ / ↓`` | Crear múltiples cursores para editar |
+| ``Ctrl + D`` | 👿Crear múltiples cursores usando el "Next find match" |
+| ``Ctrl + P`` | Ver pestañas|
+| ``Ctrl + Shift + O`` | Ver rápidamente las definiciones de la clase |
+| ``Ctrl + G`` | Ir a linea |
+| ``Alt + <`` | Salto de linea |
+| ``Alt + >`` | Salto de linea |
+| ``Ctrl + K Ctrl + T`` | Cambiar de tema |
+| ``Ctrl + K Ctrl + S`` | Comanodos VSCode |
+| ``Ctrl + K Z`` | Zen mode |
+| ``Ctrl + K Ctrl + V`` | Markdown: Open preview to the side |
+| ``Ctrl + Shift + V`` | Markdown: Open preview to the side |
+| ``Ctrl + Shift + P`` | Mostrar la paleta de comandos |
+| ``F1`` | Mostrar la paleta de comandos |
+| ``Ctrl + Shift + F`` | Buscar en el proyecto |
+| ``Ctrl + Shift + X`` | Buscar extensiones |
+| ``Ctrl + B`` | Ocultar Mostrar barra lateral |
+| ``Ctrl + ñ`` | Ocultar Mostrar terminal |
+| ``Ctrl + j`` | Ocultar Mostrar terminal |
+| ``Ctrl + K V`` | Abrir markdown |
+| ``Ctrl + L`` | Seleccionar todas las ocurrencias de la selección |
+
+
+## Comandos Markdown
+
+| Shortcut | Description |
+| --- | --- |
+| ``Ctrl + B`` | Negrita |
+| ``Ctrl + I`` | Cursiva |
+| ``Ctrl + K`` | Link |
+| ``Ctrl + Shift + I`` | Imagen |
+| ``Ctrl + Shift + C`` | Código |
+| ``Ctrl + Shift + P`` | Tabla |
+| ``Ctrl + Shift + M`` | Lista |
+| ``Ctrl + Shift + Q`` | Cita |
+| ``Ctrl + Shift + H`` | Línea horizontal |
+| ``Ctrl + Shift + U`` | Subrayado |
+| ``Ctrl + Shift + L`` | Lista numerada |
+| ``Ctrl + Shift + O`` | Lista ordenada |
+| ``Ctrl + Shift + T`` | Tachado |
+| ``Ctrl + Shift + X`` | Superscript |
+| ``Ctrl + Shift + Y`` | Subscript |
+| ``Ctrl + Shift + Z`` | Título 1 |
+| ``Ctrl + Shift + 1`` | Título 2 |
+
+## Comandos de Emmet
+
+| Shortcut | Description |
+| --- | --- |
+| ``Ctrl + E`` | Emmet: Expand Abbreviation |
