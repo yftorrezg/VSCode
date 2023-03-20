@@ -1,73 +1,5 @@
 # Shortcuts
 
-
-#### Utilizar emmet wrap
-
-    Crear atajo (shortcut) para el mismo
-    
-    tips:
-        Ctrl + SHIFT + P
-
-        Buscar: Wrap with abbreviation
-                debe de quedar el ng serve así
-                <code>ng serve</code>
-        Alt + A
-
-#### Crear un nuevo archivo
-
-    Crear carpeta `assets`
-    Crear carpeta `js`
-    Crear archivo `app.js`
-
-    Tips:
-
-            Ctrl + click derecho
-            Ir a la definición ``F12``
-            Ojear definicion en un 'cuadrito'. salir con ESCAPE
-            Ojear definición Alt + F12
-
-#### Crear múltiples cursores usando el "Next find match"
-
-        Ctrl + D
-        Ctrl + i: div, ul, etc   / ALT + A
-
-## Extensiones
-
-### Bookmarks
-
-        ALT + V
-
-### Live serve
-
-        ALT + L   ALT + O
-
-### 04-replace-definition
-
-Objetivo:
-
-        Cambiar únicamente la refencia de SuperHeroe a Heroe
-        OJO!: Pero no reemplazar los strings
-
-Tips:
-
-        Replace Symbol
-        F2(funciona con f2)
-
-### Crear multiples cursores
-
-        Ctrl + Alt + ↑ / ↓
-        selecionar
-        Ctrl + Shift + ->
-        copy paste
-
-### Crear múltiples cursores
-
-        Mantener alt + click. Devuelta click pa quitar cursor
-
-### Seleccionar todas las ocurrencias de la selección
-
-        Ctrl +  L    pa despues borrar C+X
-
 ## Tabla con todos los atajos
 
 | Shortcut | Description |
@@ -77,8 +9,8 @@ Tips:
 | ``Ctrl + O`` | Abrir archivo |
 | ``Ctrl + K Ctrl + O`` | Abrir carpeta |
 | ``Alt + ↑ / ↓`` | Mover lineas arriba abajo |
-| ``Ctrl + Q`` | Comentar/Descomentar un bloque de código |
-| ``Alt + Shift + A`` | Comentar/Descomentar un bloque de código |
+| ``Ctrl + Q`` | Comentar/Descomentar linea |
+| ``Alt + Shift + A`` | Com/Desc un bloque|
 | ``Ctrl + K Ctrl + W`` | Cerrar todas las pestañas |
 | ``Ctrl + W`` | Cerrar pestaña |
 | ``Ctrl + Shift + T`` | Reabrir pestaña anterior |
@@ -107,13 +39,79 @@ Tips:
 | ``Ctrl + K V`` | Abrir markdown |
 | ``Ctrl + L`` | Seleccionar todas las ocurrencias de la selección |
 
+## Utilizar emmet wrap
+
+    Crear atajo (shortcut) para el mismo
+    
+    tips:
+        Ctrl + SHIFT + P
+
+        Buscar: Wrap with abbreviation
+                debe de quedar el ng serve así
+                <code>ng serve</code>
+        Alt + A
+
+## Crear un nuevo archivo
+
+    Crear carpeta `assets`
+    Crear carpeta `js`
+    Crear archivo `app.js`
+
+    Tips:
+
+            Ctrl + click derecho
+            Ir a la definición ``F12``
+            Ojear definicion en un 'cuadrito'. salir con ESCAPE
+            Ojear definición Alt + F12
+
+## **Crear** múltiples cursores usando el "Next find match"
+
+        Ctrl + D
+        Ctrl + i: div, ul, etc   / ALT + A
+
+### **Seleccionar** multiples cursores
+
+        Ctrl + Alt + ↑ / ↓
+        selecionar
+        Ctrl + Shift + ->
+        copy paste
+
+### Crear con **cursores**
+
+        Mantener 'ALT' + 'click'. Devuelta 'click' pa quitar cursor
+
+### Seleccionar todas las ocurrencias de la selección
+
+        Ctrl +  L    pa despues borrar C+X
+
+## ***Extensiones***
+
+### Bookmarks
+
+        ALT + V
+
+### Live serve
+
+        ALT + L   ALT + O
+
+### 04-replace-definition
+
+Objetivo:
+
+        Cambiar únicamente la refencia de SuperHeroe a Heroe
+        OJO!: Pero no reemplazar los strings
+
+Tips:
+
+        Replace Symbol
+        F2(funciona con f2)
 
 ## Comandos Markdown
 
 | Shortcut | Description |
 | --- | --- |
 | ``Ctrl + B`` | Negrita |
-| ``Ctrl + I`` | Cursiva |
+| ``Ctrl + I`` | *Cursiva* |
 | ``Ctrl + K`` | Link |
 | ``Ctrl + Shift + I`` | Imagen |
 | ``Ctrl + Shift + C`` | Código |
